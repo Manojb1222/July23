@@ -1,0 +1,40 @@
+
+    .M{
+        background-color: black;
+        color:aqua;
+
+    }
+    .A{
+        color:purple;
+        background-color:whitesmoke;
+
+    }
+    .N{
+        color:blue;
+        background-color:lightgray;
+
+    }
+    #O{
+        color:aliceblue;
+        background-color:black;
+    }
+    #J{
+        color:goldenrod;
+        background-color:aqua;
+    }
+    div{
+        text-align: center;
+    }
+    h3{
+        color: aqua ;
+        background-color:orange;
+    }
+    pre{
+        color: white;
+        background-color: black;
+    }
+    h1{
+        color:violet;
+        background-color: aqua;
+    }
+
